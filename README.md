@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Galimor1
+- 👋 Hi, I’m Кристиян Георгиев
+
 - 👀 I’m interested in full stack development!
 - 🌱 I’m currently learning front end development!
 - 💞️ I’m looking to collaborate on website project bulding!
